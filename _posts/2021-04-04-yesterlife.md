@@ -6,6 +6,9 @@ date:       2021-04-04 22:00:00
 
 ![YesterLife](https://yesterlife.github.io/img/files/yesterlife.png)
 
+### 陌生人，你好
+### 欢迎来到 「YesterLife」
+
 念念不忘，必有回响<br>
 虽然不能承受，却温暖至今
 
