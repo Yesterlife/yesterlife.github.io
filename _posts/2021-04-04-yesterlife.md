@@ -11,4 +11,4 @@ date:       2021-04-04 22:00:00
 
 Always in my heart, always miss.<br>
 Although can not let go, but the eternal warmth of my heart.<br>
-Just like a fish can't live without water, just like I can't live without &emsp;&emsp;.<br>
+Just like a fish can't live without water, just like I can't live without 「_____」.<br>
