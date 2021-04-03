@@ -25,11 +25,11 @@ SEOTitle: Picstory | Just For You
 description: # this means to ignore newlines until "baseurl:"
   一些或许可以看的相片，是生活、是悲欢、是不舍、是什么呢
 # baseurl: "/dotstheme" # the subpath of your site, e.g. /blog
-url: "https://xiangblq.github.io/Picstory/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yesterlife.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SNS settings
-twitter_username: tick_puppet
-github_username:  tickmao
+twitter_username: 
+github_username:  
 
 # Analytics settings true开启，false关闭
 # 百度统计 在baidu-url里填写自己相关的url代码
