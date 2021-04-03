@@ -28,7 +28,7 @@ description: # this means to ignore newlines until "baseurl:"
 url: "https://yesterlife.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SNS settings
-twitter_username: 
+twitter_username: XIANG_BLQ
 github_username:  
 
 # Analytics settings true开启，false关闭
@@ -79,7 +79,7 @@ pygmentsTheme: 'default'
 
 # gem 配置信息
 gems: [jekyll-paginate,pager,pagination]   #添加插件
-paginate: 1   #开启分页,首页展示数量
+paginate: 2   #开启分页,首页展示数量
 paginate_path: "blog/page:num"
 permalink: "/:year/:month/:title"
 escape_code: true
