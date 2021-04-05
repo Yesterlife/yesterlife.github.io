@@ -12,11 +12,6 @@ layout: default
     {{ content }}
     <section class="meta">
 
-  <!-- 在正文开头添加网易云音乐插件 -->
-  {% if page.music-id %}
-    {% include cloud-music.html %}
-  {% endif %} 
-  {{ content }}
 
         <!-- Multi-Lingual -->
         <hr style="visibility: hidden;">
@@ -42,16 +37,7 @@ layout: default
                 {% endif %}
             </ul>
 
-            <div class="post-share">
-                <div class="post-date">{{ site.data.settings.sharing_button_prompt }}</div>
-                <div class="sharing-icons">
-                  <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.github.url }}{{ page.url }}&amp;title={{ page.title }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                  <a href="https://plus.google.com/share?url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-                </div>
-              </div>
 
-            
             {% if site.disqus_username %}
             <!-- disqus 评论框 start -->
             <div class="comment">
@@ -71,6 +57,21 @@ layout: default
         </div>
     </section>
 </section>
+
+  <!-- 在正文开头添加网易云音乐插件 -->
+  {% if page.music-id %}
+    {% include cloud-music.html %}
+  {% endif %} 
+  {{ content }}
+
+  <div class="post-share">
+    <div class="post-date">{{ site.data.settings.sharing_button_prompt }}</div>
+<div class="sharing-icons">
+    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+   <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.github.url }}{{ page.url }}&amp;title={{ page.title }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+   <a href="https://plus.google.com/share?url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+   </div>
+</div>
 
 
 {% if site.disqus_username %}
