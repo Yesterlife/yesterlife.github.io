@@ -50,19 +50,11 @@ Xunyi，ZHAO
 程序：Github Page，by Jekyll<br>
 主题：Dotstheme by Tickmao
 
-<div id="donate">
-<link rel="stylesheet" type="text/css" href="/css/donate.css">
-<script type="text/javascript" src="/js/donate.js" successtext="复制成功!">
-</script><a class="pos-f tr3" id="github" target="_blank" rel="noopener" href="https://github.com/" arget="_blank" title="Github"></a>
-<div id="DonateText">Donate</div>
-<ul class="list pos-f" id="donateBox">
-     <li id="PayPal"><a href="https://paypal.me/" target="_blank"></a>
-     </li>
-     <li id="AliPay" qr="/img/donate/My-AliPayQR.png"></li>
-     <li id="WeChat" qr="/img/donate/My-WeChatQR.png"></li></ul>
-     <div class="pos-f left-100" id="QRBox">
-     <div id="MainBox">
-       </div>
- </div>
-
-</div>
+  <div class="post-share">
+    <div class="post-date">Feel free to share!</div>
+    <div class="sharing-icons">
+      <a href="https://twitter.com/intent/tweet?text=Which boat should my rowing club buy?&amp;url=https://yujia21.github.io/personal/rowing-club-stats.html" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=https://yujia21.github.io/personal/rowing-club-stats.html&amp;title=Which boat should my rowing club buy?" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+      <a href="https://plus.google.com/share?url=https://yujia21.github.io/personal/rowing-club-stats.html" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+    </div>
+  </div>
