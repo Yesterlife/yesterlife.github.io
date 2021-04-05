@@ -49,3 +49,20 @@ Xunyi，ZHAO
 
 程序：Github Page，by Jekyll<br>
 主题：Dotstheme by Tickmao
+
+<div id="donate">
+<link rel="stylesheet" type="text/css" href="/css/donate.css">
+<script type="text/javascript" src="/js/donate.js" successtext="复制成功!">
+</script><a class="pos-f tr3" id="github" target="_blank" rel="noopener" href="https://github.com/zklhp/" arget="_blank" title="Github"></a>
+<div id="DonateText">Donate</div>
+<ul class="list pos-f" id="donateBox">
+     <li id="PayPal"><a href="https://paypal.me/ChrisZheng99" target="_blank"></a>
+     </li>
+     <li id="AliPay" qr="/img/My-AliPayQR.png"></li>
+     <li id="WeChat" qr="/img/My-WeChatQR.png"></li></ul>
+     <div class="pos-f left-100" id="QRBox">
+     <div id="MainBox">
+       </div>
+ </div>
+
+</div>
