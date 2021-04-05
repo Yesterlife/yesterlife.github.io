@@ -58,11 +58,13 @@ Xunyi，ZHAO
 <ul class="list pos-f" id="donateBox">
      <li id="PayPal"><a href="https://paypal.me/ChrisZheng99" target="_blank"></a>
      </li>
-     <li id="AliPay" qr="/img/My-AliPayQR.png"></li>
-     <li id="WeChat" qr="/img/My-WeChatQR.png"></li></ul>
+     <li id="AliPay" qr="/img/donate/My-AliPayQR.png"></li>
+     <li id="WeChat" qr="/img/donate/My-WeChatQR.png"></li></ul>
      <div class="pos-f left-100" id="QRBox">
      <div id="MainBox">
        </div>
  </div>
 
 </div>
+
+ 
