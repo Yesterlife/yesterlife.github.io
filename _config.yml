@@ -36,8 +36,8 @@ github_username:
 baidu: false
 baidu-url: '' #ba_track_id: [your track id]
 # 谷歌分析 在google-ID里填写自己在谷歌分析获得的追踪ID
-google: false
-google-ID: '' #Format: UA-xxxxxx-xx
+google: true
+google-ID: 'G-M2PMVFG8RF' #Format: UA-xxxxxx-xx
 
 # 评论 最佳体验 在 Gittalk 之间二选一，true为开启，false为关闭
 # disqus 评论
