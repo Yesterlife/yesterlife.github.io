@@ -53,10 +53,10 @@ Xunyi，ZHAO
 <div id="donate">
 <link rel="stylesheet" type="text/css" href="/css/donate.css">
 <script type="text/javascript" src="/js/donate.js" successtext="复制成功!">
-</script><a class="pos-f tr3" id="github" target="_blank" rel="noopener" href="https://github.com/zklhp/" arget="_blank" title="Github"></a>
+</script><a class="pos-f tr3" id="github" target="_blank" rel="noopener" href="https://github.com/" arget="_blank" title="Github"></a>
 <div id="DonateText">Donate</div>
 <ul class="list pos-f" id="donateBox">
-     <li id="PayPal"><a href="https://paypal.me/ChrisZheng99" target="_blank"></a>
+     <li id="PayPal"><a href="https://paypal.me/" target="_blank"></a>
      </li>
      <li id="AliPay" qr="/img/donate/My-AliPayQR.png"></li>
      <li id="WeChat" qr="/img/donate/My-WeChatQR.png"></li></ul>
