@@ -50,11 +50,3 @@ Xunyi，ZHAO
 程序：Github Page，by Jekyll<br>
 主题：Dotstheme by Tickmao
 
-  <div class="post-share">
-    <div class="post-date">Feel free to share!</div>
-    <div class="sharing-icons">
-      <a href="https://twitter.com/intent/tweet?text=Which boat should my rowing club buy?&amp;url=https://yujia21.github.io/personal/rowing-club-stats.html" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-      <a href="https://www.facebook.com/sharer/sharer.php?u=https://yujia21.github.io/personal/rowing-club-stats.html&amp;title=Which boat should my rowing club buy?" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-      <a href="https://plus.google.com/share?url=https://yujia21.github.io/personal/rowing-club-stats.html" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-    </div>
-  </div>
