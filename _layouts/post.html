@@ -10,15 +10,14 @@ layout: default
     <div class="page-title">{{ page.title }}</div>
     <div class="page-time">{{ page.date | date:"%a, %d %B %Y" }}
         /
-        {% capture lang %}{{ post.lang | default: site.lang | default: "en" }}{% endcapture %}
-        {% if lang == "en" %}
-        {% capture words %}{{ post.content | strip_html | number_of_words  }}{% endcapture %}
-        {% else %}
-        {% capture words %}{{ post.content | strip_html | size }}{% endcapture %}
-        {% endif %}
-        {% unless words contains "-" %}
-        {{ words | plus: 250 | divided_by: 250 | append: " minute read"  }}
-        {% endunless %}
+        <div class="post-share">
+            <div class="post-time">{{ page.date | date:"%a, %d %B %Y" }}</div>
+            <div class="sharing-icons">
+              <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+              <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.github.url }}{{ page.url }}&amp;title={{ page.title }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+              <a href="https://plus.google.com/share?url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+            </div>
+          </div>
     </div>
     {{ content }}
     <section class="meta">
