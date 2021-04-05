@@ -8,16 +8,7 @@ layout: default
 <!-- Post Container -->
 <section class="post">
     <div class="page-title">{{ page.title }}</div>
-    <div class="page-time">{{ page.date | date:"%a, %d %B %Y" }}
-        /
-        <div class="post-share">
-            <div class="sharing-icons">
-              <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.github.url }}{{ page.url }}" target="_blank">twitter</a>
-              <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.github.url }}{{ page.url }}&amp;title={{ page.title }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-              <a href="https://plus.google.com/share?url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-            </div>
-          </div>
-    </div>
+    <div class="page-time">{{ page.date | date:"%a, %d %B %Y" }}</div>
     {{ content }}
     <section class="meta">
 
@@ -45,6 +36,14 @@ layout: default
                 </li>
                 {% endif %}
             </ul>
+
+            <div class="post-share">
+                <div class="sharing-icons">
+                  <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.github.url }}{{ page.url }}" target="_blank">Twitter</a>
+                  <a href="http://v.t.sina.com.cn/share/share.php?u={{ site.github.url }}{{ page.url }}&amp;title={{ page.title }}" target="_blank">Weibo</a>
+                  <a href="http://connect.qq.com/widget/shareqq/index.html?url={{ site.github.url }}{{ page.url }}" target="_blank">QQ</a>
+                </div>
+              </div>
 
 
             {% if site.disqus_username %}
