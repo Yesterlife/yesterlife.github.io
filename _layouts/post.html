@@ -10,6 +10,11 @@ layout: default
     <div class="page-title">{{ page.title }}</div>
     <div class="page-time">{{ page.date | date:"%a, %d %B %Y" }}</div>
     {{ content }}
+
+    {% raw %}
+{ content | strip_html | strip_newlines | size | divided_by:350 | round}}
+{% endraw %}
+
     <section class="meta">
 
 
