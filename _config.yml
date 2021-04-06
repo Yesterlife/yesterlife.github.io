@@ -33,8 +33,8 @@ github_username:
 
 # Analytics settings true开启，false关闭
 # 百度统计 在baidu-url里填写自己相关的url代码
-baidu: false
-baidu-url: '' #ba_track_id: [your track id]
+baidu: true
+baidu-url: '4576368b64ceb6f8a050be305e80c5a2' #ba_track_id: [your track id]
 # 谷歌分析 在google-ID里填写自己在谷歌分析获得的追踪ID
 google: true
 google-ID: 'G-M2PMVFG8RF' #Format: UA-xxxxxx-xx
