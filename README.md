@@ -1,63 +1,39 @@
-[Hux Blog](https://huangxuan.me)
-================================
+# About
 
-> I never expect this becomes popular.
+[![Gitter](https://badges.gitter.im/fan-farm/Lobby.svg)](https://gitter.im/fan-farm/Lobby)
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+This is my homepage and blog based on jekyll. You can visit it at [fzheng.me](http://fzheng.me).
 
+If you want to use this blog template, please **give a star at the repository**. Then you can clone it as your blog model.
 
-[User Manual 👉](_doc/Manual.md)
---------------------------------------------------
+**Please declare the origin if you use the template**.
 
-### Getting Started
+---
 
-1. You will need [Ruby](https://www.ruby-lang.org/en/) and [Bundler](https://bundler.io/) to use [Jekyll](https://jekyllrb.com/). Following [Using Jekyll with Bundler](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/) to fullfill the enviromental requirement.
+这是我的个人主页和博客，基于 jekyll。访问链接：[fzheng.me](http://fzheng.me)。
 
-2. Installed dependencies in the `Gemfile`:
+如果你想使用这个模板, 就**请先在仓库上点个 star** 吧，然后你可以克隆作你自己的博客。
 
-```sh
-$ bundle install 
-```
+**使用时请注明模板来源**。
 
-3. Serve the website (`localhost:4000` by default):
+---
 
-```sh
-$ bundle exec jekyll serve  # alternatively, npm start
-```
+### Site update log
+ Date | Event
+--- | ---
+2018.05 | Upgrade to HTTPS support thanks to Github Pages' [new feature](https://blog.github.com/2018-05-01-github-pages-custom-domains-https/)
+2015.07 | Launch of my personal domain [fzheng.me](http://fzheng.me).
+2015.07 | Foundation of the blog structure. Also use Github Pages.
+2015.03	| Foundation of my [homepage](https://izhengfan.github.io) maintained in Github Pages.
 
-### Development (Build From Source)
+### Sites using this theme
 
-To modify the theme, you will need [Grunt](https://gruntjs.com/). There are numbers of tasks you can find in the `Gruntfile.js`, includes minifing JavaScript, compiling `.less` to `.css`, adding banners to keep the Apache 2.0 license intact, watching for changes, etc. 
+You can make a Pull Request to put your site url here.
 
-Yes, they were inherited and are extremely old-fashioned. There is no modularization and transpilation, etc.
+- https://www.ogura.io/
 
-Critical Jekyll-related code are located in `_include/` and `_layouts/`. Most of them are [Liquid](https://github.com/Shopify/liquid/wiki) templates.
+- https://hadronw.github.io/
 
-This theme uses the default code syntax highlighter of jekyll, [Rouge](http://rouge.jneen.net/), which is compatible with Pygments theme so just pick any pygments theme css (e.g. from [here](http://jwarby.github.io/jekyll-pygments-themes/languages/javascript.html) and replace the content of `highlight.less`.
+- https://blog.bobliao.xyz/
 
-
-### Interesting to know more? Checkout the [full user manual](_doc/Manual.md)!
-
-
-Other Resources
----------------
-
-Ports
-- [**Hexo**](https://github.com/Kaijun/hexo-theme-huxblog) by @kaijun
-- [**React-SSR**](https://github.com/LucasIcarus/huxpro.github.io/tree/ssr) by @LucasIcarus
-
-[Starter/Boilerplate](https://github.com/huxpro/huxblog-boilerplate)
-- Out of date. Helps wanted for updating it on par with the main repo
-
-Translation
-- [🇨🇳  中文文档（有点过时）](https://github.com/Huxpro/huxpro.github.io/blob/master/_doc/README.zh.md)
-
-
-License
--------
-
-Apache License 2.0.
-Copyright (c) 2015-present Huxpro
-
-Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
-Copyright (c) 2013-2016 Blackrock Digital LLC.
+- https://laura-wang.github.io/

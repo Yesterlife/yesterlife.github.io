@@ -1,102 +1,26 @@
 # Site settings
-title: 廿七以西
-SEOTitle: 廿七以西 | XIANGBLQ'S Blog
-header-img: img/home-bg.jpg
-email: chare405@foxmail.com
-description: "这里是赵三歳的个人博客，认真书写自己的世界 | 愿做一个永怀善意、持续可爱的人"
-keyword: "赵三歳, XIANGBLQ, @xiangblq, 相白清, 廿七以西, 赵三歳的博客, XIANGBLQ'S Blog, 博客, 个人网站"
-url: "https://yesterlife.github.io" # your host, for absolute URL
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+title: Ss's Anthology
+email: sansui_z@126.com
+description: A young man, thinking all the time
+# > # this means to ignore newlines until "baseurl:"
+#   Write an awesome description for your new site here. You can edit this
+#   line in _config.yml. It will appear in your document head meta (for
+#   Google search results) and in your feed.xml site description.
 
-# Publish posts or collection documents with a future date.
-future: true
+baseurl: "/wenji" # the subpath of your site, e.g. /blog/
+url: "https://buyivi.xyz" # the base hostname & protocol for your site
 
-# SNS settings
-RSS: false
-weibo_username: 
-zhihu_username: 
-github_username: 
-twitter_username: 
-#facebook_username:  
-#linkedin_username:  firstname-lastname-idxxxx
+# twitter_username: jekyllrb
+github_username:  Sansuiz
+permalink: /:year/:month/:day/:title/
 
 # Build settings
-# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
-highlighter: rouge
-permalink: pretty
-paginate: 10
-exclude:
-  [
-    "less",
-    "node_modules",
-    "Gruntfile.js",
-    "package.json",
-    "README.md",
-    "README.zh.md",
-  ]
-anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
-# If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN
-
-# Gems
-# from PR#40, to support local preview for Jekyll 3.0
-# make sure you have this gem installed
-# `$ gem install jekyll-paginate`
-plugins: [jekyll-paginate]
-
-# Markdown settings
-# replace redcarpet to kramdown,
-# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
-# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
-kramdown:
-  input: GFM # use Github Flavored Markdown !important
-  syntax_highlighter_opts:
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
-      start_line: 1
 
-# Disqus settings
-disqus_username: false
+# highlight
+# use rouge locally, pygments in Github
+# highlighter: pygments
+# highlighter: rouge
+# highlighter: false
 
-# Netease settings
-netease_comment: false
-
-# Analytics settings
-# Baidu Analytics
-# ba_track_id: [your track id]
-
-# Google Analytics
-ga_track_id: "" # Format: UA-xxxxxx-xx
-ga_domain: 
-
-# Sidebar settings
-sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "做一个可爱的人，热爱脚下的这一片土地，誓与赌毒不共戴天"
-sidebar-avatar: img/ac.png # use absolute URL, seeing it's used in both `/` and `/about/`
-
-# Featured Tags
-featured-tags: true # whether or not using Feature-Tags
-featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value
-
-# Progressive Web Apps
-chrome-tab-theme-color: "#000000"
-service-worker: true
-
-# MathJax rendering for layout:page (e.g. post preview)
-page-mathjax: false
-
-# Friends
-friends:
-  [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
-  ]
+timezone: TIMEZONE
