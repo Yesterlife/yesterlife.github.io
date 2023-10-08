@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title: "C++: 不可拷贝（noncopyable）类 "
 date: 2016-11-20 01:00:00
 categories: cn

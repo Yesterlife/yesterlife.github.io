@@ -1,15 +1,15 @@
 ---
-layout: post
+layout: enpost
 title:  "LUCA | Chapter 11"
 date:   2021-09-02 11:00:00
 categories: en
 tags: 电影 动画 听力
 ---
 
->《LUCA-夏日友晴天》 | 动画 | 第十一章 | [中文版↗](https://buyivi.xyz/luca-chapter11/)
+>《LUCA-夏日友晴天》 | 动画 | 第十一章 | [中文版↗](https://buyivi.xyz/wenji/luca-chapter11/)
 
 ​&emsp;&emsp;<audio id="audio" controls="" preload="none">
-      <source id="m4a" src="https://buyivi.xyz/files/audio/Luca/Chapter11.m4a">
+      <source id="m4a" src="https://buyivi.xyz/wenji/files/audio/Luca/Chapter11.m4a">
 </audio>
 
 &emsp;&emsp;All through dinner, Luca had been quiet—quieter than usual.

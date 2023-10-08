@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title:  "凤凰花"
 date:   2021-06-30 15:15:00
 categories: cn

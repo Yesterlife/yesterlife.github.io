@@ -1,15 +1,15 @@
 ---
-layout: post
+layout: enpost
 title:  "LUCA | Chapter 10"
 date:   2021-09-02 10:30:00
 categories: en
 tags: 电影 动画 听力
 ---
 
->《LUCA-夏日友晴天》 | 动画 | 第十章 | [中文版↗](https://buyivi.xyz/luca-chapter10/)
+>《LUCA-夏日友晴天》 | 动画 | 第十章 | [中文版↗](https://buyivi.xyz/wenji/luca-chapter10/)
 
 ​&emsp;&emsp;<audio id="audio" controls="" preload="none">
-      <source id="m4a" src="https://buyivi.xyz/files/audio/Luca/Chapter10.m4a">
+      <source id="m4a" src="https://buyivi.xyz/wenji/files/audio/Luca/Chapter10.m4a">
 </audio>
 
 &emsp;&emsp;"Okay, ragazzi!" Giulia said as she set a big bowl of rigatoni in front of Alberto. "We have one week to train. Pronti, ai posti, via!"

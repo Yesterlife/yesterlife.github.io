@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: enpost
 title: "Practical Vim: Modes"
 date: 2018-03-17 01:00:00
 categories: en

@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title:  "我们为什么不再是儿童"
 date:   2020-06-01 22:30:00
 categories: cn

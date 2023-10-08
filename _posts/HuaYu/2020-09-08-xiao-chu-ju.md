@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title:  "小雏菊"
 date:   2020-09-08 20:50:00
 categories: cn

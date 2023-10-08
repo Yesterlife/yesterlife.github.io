@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: enpost
 title:  "OpenCV: Installation and Comfiguration"
 date: 2015-08-16 10:00:51 
 categories: en
@@ -13,7 +13,7 @@ __Contents__
 
 ### Introduction
 
-OpenCV is a well-known library for computer vision computation. Its website is [opencv.org](http://opencv.org/). This post discusses how to install OpenCV. While there are many versions and 3.0 is the latest, here we choose version 2.4.11.
+OpenCV is a well-known library for computer vision computation. Its website is [opencv.org](http://opencv.org/). This enpost discusses how to install OpenCV. While there are many versions and 3.0 is the latest, here we choose version 2.4.11.
 
 ### Installation in Windows
 

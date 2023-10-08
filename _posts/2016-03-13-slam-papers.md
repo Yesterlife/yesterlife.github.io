@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: enpost
 title: "SLAM Materials: Literature Collection"
 date:   2016-03-13 09:53:41
 categories: en

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: enpost
 title:  "ZJUDANCER: Humanoid Football Player Robot"
 date:   2014-07-31 16:31:28
 categories: en

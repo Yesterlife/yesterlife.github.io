@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title:  "王朝兴衰，唯有医道长存"
 date:   2013-12-12 16:31:28
 categories: cn

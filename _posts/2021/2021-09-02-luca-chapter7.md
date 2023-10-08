@@ -1,15 +1,15 @@
 ---
-layout: post
+layout: enpost
 title:  "LUCA | Chapter 7"
 date:   2021-09-02 09:00:00
 categories: en
 tags: 电影 动画 听力
 ---
 
->《LUCA-夏日友晴天》 | 动画 | 第七章 | [中文版↗](https://buyivi.xyz/luca-chapter7/)
+>《LUCA-夏日友晴天》 | 动画 | 第七章 | [中文版↗](https://buyivi.xyz/wenji/luca-chapter7/)
 
 ​&emsp;&emsp;<audio id="audio" controls="" preload="none">
-      <source id="m4a" src="https://buyivi.xyz/files/audio/Luca/Chapter7.m4a">
+      <source id="m4a" src="https://buyivi.xyz/wenji/files/audio/Luca/Chapter7.m4a">
 </audio>
 
 &emsp;&emsp;Luca sat on Giulia's bicycle, which she had disconnected from the fish cart. He was nervous yet thrilled to be sitting on an actual bicycle.

@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title: "泳思 · 路过你的家乡"
 date: 2015-08-22 16:00:00
 categories: cn

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: enpost
 title: "SLAM Materials: Dataset Collection"
 date:   2016-03-13 10:00:00
 categories: en

@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title: "C/C++：字面值常量"
 date: 2015-12-22 22:00:00
 categories: cn

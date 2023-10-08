@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title:  "来自譞 | 二零一五年三月"
 date:   2019-11-05 22:30:00
 categories: cn

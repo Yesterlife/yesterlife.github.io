@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title: "Vim 调试：termdebug 入门"
 date: 2018-05-28 01:00:00
 categories: cn

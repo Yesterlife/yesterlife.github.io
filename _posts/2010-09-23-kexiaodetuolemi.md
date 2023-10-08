@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title: "可笑的托勒密？"
 date: 2010-09-23 17:40:00
 categories: cn

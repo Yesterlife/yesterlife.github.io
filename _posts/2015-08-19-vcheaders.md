@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title:  "C/C++: 预编译头文件"
 date: 2015-08-19 22:00:51 
 categories: cn

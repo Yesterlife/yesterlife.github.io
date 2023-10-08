@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title: "理解 C++ 右值引用和 std::move"
 date: 2019-10-19 01:00:00
 categories: cn

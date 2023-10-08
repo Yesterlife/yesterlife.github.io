@@ -1,7 +1,7 @@
 ---
-layout: cndefault
+layout: endefault
 title: 关于
-permalink: /cnabout/
+permalink: /enabout/
 ---
 
 ### 三嵗文集 | Ss's Anthology

@@ -1,15 +1,15 @@
 ---
-layout: post
+layout: enpost
 title:  "LUCA | Chapter 17"
 date:   2021-09-02 14:00:00
 categories: en
 tags: 电影 动画 听力
 ---
 
->《LUCA-夏日友晴天》 | 动画 | 第十七章 | [中文版↗](https://buyivi.xyz/luca-chapter17/)
+>《LUCA-夏日友晴天》 | 动画 | 第十七章 | [中文版↗](https://buyivi.xyz/wenji/luca-chapter17/)
 
 ​&emsp;&emsp;<audio id="audio" controls="" preload="none">
-      <source id="m4a" src="https://buyivi.xyz/files/audio/Luca/Chapter17.m4a">
+      <source id="m4a" src="https://buyivi.xyz/wenji/files/audio/Luca/Chapter17.m4a">
 </audio>
 
 &emsp;&emsp;"Out of the way!" Ercole shouted, hot on the heels of Luca and Alberto. One way or another, he was going to get those sea monsters!

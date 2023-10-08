@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title: "历史图像与灵心善感"
 date: 2012-02-11 17:40:00
 categories: cn

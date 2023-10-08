@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title:  "回味 | 花的学校"
 date:   2020-01-02 15:00:00
 categories: cn

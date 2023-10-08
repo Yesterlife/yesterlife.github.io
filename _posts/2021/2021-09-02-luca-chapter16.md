@@ -1,15 +1,15 @@
 ---
-layout: post
+layout: enpost
 title:  "LUCA | Chapter 16"
 date:   2021-09-02 13:30:00
 categories: en
 tags: 电影 动画 听力
 ---
 
->《LUCA-夏日友晴天》 | 动画 | 第十六章 | [中文版↗](https://buyivi.xyz/luca-chapter16/)
+>《LUCA-夏日友晴天》 | 动画 | 第十六章 | [中文版↗](https://buyivi.xyz/wenji/luca-chapter16/)
 
 ​&emsp;&emsp;<audio id="audio" controls="" preload="none">
-      <source id="m4a" src="https://buyivi.xyz/files/audio/Luca/Chapter16.m4a">
+      <source id="m4a" src="https://buyivi.xyz/wenji/files/audio/Luca/Chapter16.m4a">
 </audio>
 
 &emsp;&emsp;Kids whizzed by on their bicycles as Daniela and Lorenzo attempted to hand out the cups of water. It wasn't easy, because they were moving so fast! And, frankly, they were still getting used to the sensation of moving around in air instead of water.

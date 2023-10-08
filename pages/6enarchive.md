@@ -1,7 +1,7 @@
 ---
-layout: cndefault
+layout: endefault
 title: 归档 (含英文博客)
-permalink: /cnarchive/
+permalink: /enarchive/
 ---
 
 ### 归档 (含英文博客)

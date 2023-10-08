@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title: "ROS 基本概念和配置"
 date: 2015-10-08 12:00:00
 categories: cn

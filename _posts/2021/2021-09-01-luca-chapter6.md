@@ -1,15 +1,15 @@
 ---
-layout: post
+layout: enpost
 title:  "LUCA | Chapter 6"
 date:   2021-09-01 12:00:00
 categories: en
 tags: 电影 动画 听力
 ---
 
->《LUCA-夏日友晴天》 | 动画 | 第六章 | [中文版↗](https://buyivi.xyz/luca-chapter6/)
+>《LUCA-夏日友晴天》 | 动画 | 第六章 | [中文版↗](https://buyivi.xyz/wenji/luca-chapter6/)
 
 ​&emsp;&emsp;<audio id="audio" controls="" preload="none">
-      <source id="m4a" src="https://buyivi.xyz/files/audio/Luca/Chapter6.m4a">
+      <source id="m4a" src="https://buyivi.xyz/wenji/files/audio/Luca/Chapter6.m4a">
 </audio>
 
 &emsp;&emsp;But before Ercole could really give Luca a bath, he was distracted by someone shouting, "Hey! Ercole, basta!"

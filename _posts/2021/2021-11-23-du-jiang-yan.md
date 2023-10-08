@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title:  "D211123-都江堰"
 date:   2021-11-23 09:00:00
 categories: cn

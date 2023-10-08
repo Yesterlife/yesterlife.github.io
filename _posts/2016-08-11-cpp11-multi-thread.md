@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title: "翻译：C++ 11 线程、锁和条件变量"
 date: 2016-08-11 01:00:00
 categories: cn

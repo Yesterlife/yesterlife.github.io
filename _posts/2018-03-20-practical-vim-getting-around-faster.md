@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: enpost
 title: "Practical Vim: Getting Around Faster"
 date: 2018-03-20 01:00:00
 categories: en

@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title: "不如读书：《燕山夜话》"
 date: 2017-06-01 22:00:00
 categories: cn

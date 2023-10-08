@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: enpost
 title:  "Learn | CPC's Great Spirit Will Always Be an Invaluable Asset to the Party and the Country"
 date:   2021-11-16 17:49:00
 categories: en

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: enpost
 title:  "Automatic Panoramic Mosaic Stitching"
 date:   2015-03-11 23:53:41
 categories: en

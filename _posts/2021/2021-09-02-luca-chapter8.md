@@ -1,15 +1,15 @@
 ---
-layout: post
+layout: enpost
 title:  "LUCA | Chapter 8"
 date:   2021-09-02 09:30:00
 categories: en
 tags: 电影 动画 听力
 ---
 
->《LUCA-夏日友晴天》 | 动画 | 第八章 | [中文版↗](https://buyivi.xyz/luca-chapter8/)
+>《LUCA-夏日友晴天》 | 动画 | 第八章 | [中文版↗](https://buyivi.xyz/wenji/luca-chapter8/)
 
 ​&emsp;&emsp;<audio id="audio" controls="" preload="none">
-      <source id="m4a" src="https://buyivi.xyz/files/audio/Luca/Chapter8.m4a">
+      <source id="m4a" src="https://buyivi.xyz/wenji/files/audio/Luca/Chapter8.m4a">
 </audio>
 
 &emsp;&emsp;Daniela rose from the water and went out into the night in her land monster form, determined to find her wayward son. Lorenzo followed close behind. They looked around for any sign of land monster activity. The coast appeared to be clear.

@@ -1,15 +1,15 @@
 ---
-layout: post
+layout: enpost
 title:  "LUCA | Chapter 9"
 date:   2021-09-02 10:00:00
 categories: en
 tags: 电影 动画 听力
 ---
 
->《LUCA-夏日友晴天》 | 动画 | 第九章 | [中文版↗](https://buyivi.xyz/luca-chapter9/)
+>《LUCA-夏日友晴天》 | 动画 | 第九章 | [中文版↗](https://buyivi.xyz/wenji/luca-chapter9/)
 
 ​&emsp;&emsp;<audio id="audio" controls="" preload="none">
-      <source id="m4a" src="https://buyivi.xyz/files/audio/Luca/Chapter9.m4a">
+      <source id="m4a" src="https://buyivi.xyz/wenji/files/audio/Luca/Chapter9.m4a">
 </audio>
 
 &emsp;&emsp;Daniela and Lorenzo found some land monster clothes hanging on a line to dry. Now that they were dressed to blend in, they approached the town of Portorosso.

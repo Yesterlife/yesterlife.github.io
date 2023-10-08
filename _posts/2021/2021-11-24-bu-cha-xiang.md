@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title:  "D211124-不差想，只差做"
 date:   2021-11-24 09:00:00
 categories: cn

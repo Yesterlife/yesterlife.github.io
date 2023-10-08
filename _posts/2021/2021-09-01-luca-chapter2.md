@@ -1,15 +1,15 @@
 ---
-layout: post
+layout: enpost
 title:  "LUCA | Chapter 2"
 date:   2021-09-01 10:00:00
 categories: en
 tags: 电影 动画 听力
 ---
 
->《LUCA-夏日友晴天》 | 动画 | 第二章 | [中文版↗](https://buyivi.xyz/luca-chapter2/)
+>《LUCA-夏日友晴天》 | 动画 | 第二章 | [中文版↗](https://buyivi.xyz/wenji/luca-chapter2/)
 
 ​&emsp;&emsp;<audio id="audio" controls="" preload="none">
-      <source id="m4a" src="https://buyivi.xyz/files/audio/Luca/Chapter2.m4a">
+      <source id="m4a" src="https://buyivi.xyz/wenji/files/audio/Luca/Chapter2.m4a">
 </audio>
 
 &emsp;&emsp;Luca swam back to the fields, his herding crook in hand, and picked up the shiny wrench he had spotted earlier. He held it in both hands and sighed. Then he noticed something shining in the distance. Swimming toward it, Luca saw a drinking glass.

@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title: "自建博客同时托管至 Github 与 Gitcafe"
 date: 2015-07-25 19:46:00
 categories: cn

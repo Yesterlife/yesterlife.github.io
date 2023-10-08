@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title:  "就当作是真，将它留下"
 date:   2019-11-06 22:30:00
 categories: cn

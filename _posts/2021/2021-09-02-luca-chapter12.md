@@ -1,15 +1,15 @@
 ---
-layout: post
+layout: enpost
 title:  "LUCA | Chapter 12"
 date:   2021-09-02 11:30:00
 categories: en
 tags: 电影 动画 听力
 ---
 
->《LUCA-夏日友晴天》 | 动画 | 第十二章 | [中文版↗](https://buyivi.xyz/luca-chapter12/)
+>《LUCA-夏日友晴天》 | 动画 | 第十二章 | [中文版↗](https://buyivi.xyz/wenji/luca-chapter12/)
 
 ​&emsp;&emsp;<audio id="audio" controls="" preload="none">
-      <source id="m4a" src="https://buyivi.xyz/files/audio/Luca/Chapter12.m4a">
+      <source id="m4a" src="https://buyivi.xyz/wenji/files/audio/Luca/Chapter12.m4a">
 </audio>
 
 &emsp;&emsp;"Hey, look who it is!" Ercole said, his voice full of mock camaraderie. "And with no Giulia to hide behind."

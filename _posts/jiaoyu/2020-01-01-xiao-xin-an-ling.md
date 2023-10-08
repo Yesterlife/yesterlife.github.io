@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title:  "回味 | 美丽的小兴安岭"
 date:   2020-01-01 15:00:00
 categories: cn

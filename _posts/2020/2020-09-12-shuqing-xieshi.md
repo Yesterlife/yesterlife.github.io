@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title:  "好的爱情"
 date:   2020-09-12 14:12:00
 categories: cn

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: enpost
 title: "Brief Review on Visual SLAM: A Historical Perspective"
 date: 2016-05-30 08:00:00
 categories: en

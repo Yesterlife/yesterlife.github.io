@@ -1,15 +1,15 @@
 ---
-layout: post
+layout: enpost
 title:  "LUCA | Chapter 14"
 date:   2021-09-02 12:30:00
 categories: en
 tags: 电影 动画 听力
 ---
 
->《LUCA-夏日友晴天》 | 动画 | 第十四章 | [中文版↗](https://buyivi.xyz/luca-chapter14/)
+>《LUCA-夏日友晴天》 | 动画 | 第十四章 | [中文版↗](https://buyivi.xyz/wenji/luca-chapter14/)
 
 ​&emsp;&emsp;<audio id="audio" controls="" preload="none">
-      <source id="m4a" src="https://buyivi.xyz/files/audio/Luca/Chapter14.m4a">
+      <source id="m4a" src="https://buyivi.xyz/wenji/files/audio/Luca/Chapter14.m4a">
 </audio>
 
 &emsp;&emsp;"Ah, there you are! I made your favorite," Massimo said, holding a large pot full of pasta. "Trenette al pesto—"

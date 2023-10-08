@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title:  "送给你（三）"
 date:   2020-09-12 09:57:00
 categories: cn

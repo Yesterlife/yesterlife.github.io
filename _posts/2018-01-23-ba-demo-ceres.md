@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: enpost 
 title: "On-Manifold Optimization Demo using Ceres Solver"
 date: 2018-01-23 01:00:00
 categories: en

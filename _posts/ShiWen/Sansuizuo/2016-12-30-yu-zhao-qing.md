@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title:  "雨照晴"
 date:   2016-12-30 22:00:00
 categories: cn

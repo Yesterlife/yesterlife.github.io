@@ -1,15 +1,15 @@
 ---
-layout: post
+layout: enpost
 title:  "LUCA | Chapter 5"
 date:   2021-09-01 11:30:00
 categories: en
 tags: 电影 动画 听力
 ---
 
->《LUCA-夏日友晴天》 | 动画 | 第五章 | [中文版↗](https://buyivi.xyz/luca-chapter5/)
+>《LUCA-夏日友晴天》 | 动画 | 第五章 | [中文版↗](https://buyivi.xyz/wenji/luca-chapter5/)
 
 ​&emsp;&emsp;<audio id="audio" controls="" preload="none">
-      <source id="m4a" src="https://buyivi.xyz/files/audio/Luca/Chapter5.m4a">
+      <source id="m4a" src="https://buyivi.xyz/wenji/files/audio/Luca/Chapter5.m4a">
 </audio>
 
 &emsp;&emsp;"Whoa," Luca said as he broke the surface near a buoy. In front of him was Portorosso—a beautiful human town. Luca had never seen anything like it.

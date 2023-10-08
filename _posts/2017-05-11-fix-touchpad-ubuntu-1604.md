@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: enpost
 title: "Fix Synaptics Touchpad in Ubuntu 16.04"
 date: 2017-05-11 01:00:00
 categories: en

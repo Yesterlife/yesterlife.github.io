@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title:  字体概谈
 date: 2015-08-15 10:00:51 
 categories: cn

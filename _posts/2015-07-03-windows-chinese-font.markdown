@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title: "英文版 Windows 下 non-Unicode 程序中正常显示汉字"
 date: 2015-07-03 09:46:00
 categories: cn

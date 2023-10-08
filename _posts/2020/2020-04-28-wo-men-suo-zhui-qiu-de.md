@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title:  "我们所追求的快乐"
 date:   2020-04-28 22:00:00
 categories: cn

@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title:  "高邮行记"
 date: 2013-08-19 22:50:51 
 categories: cn

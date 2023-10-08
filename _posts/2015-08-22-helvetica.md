@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title: "字体故事：Helvetica"
 date: 2015-08-22 20:00:00
 categories: cn

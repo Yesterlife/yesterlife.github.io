@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title: "孔子家语 vs 孔子世家"
 date: 2012-02-17 17:40:00
 categories: cn

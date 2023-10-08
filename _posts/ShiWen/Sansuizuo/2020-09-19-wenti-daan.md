@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title:  "总有些问题都没有答案"
 date:   2020-09-19 17:03:00
 categories: cn

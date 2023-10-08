@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: enpost
 title: "OpenCV: Basic Structures"
 date: 2016-01-14 12:00:00
 categories: en

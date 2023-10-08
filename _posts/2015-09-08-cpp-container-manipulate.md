@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title: "C/C++：基本容器操作"
 date: 2015-09-14 08:00:00
 categories: cn

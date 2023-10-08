@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title:  "向日葵"
 date:   2020-09-08 20:12:00
 categories: cn

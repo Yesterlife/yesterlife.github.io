@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: enpost
 title: "Practical Vim: Registers"
 date: 2018-03-24 01:00:00
 categories: en

@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title: "推荐：DreamSpark"
 date: 2015-09-07 16:00:00
 categories: cn

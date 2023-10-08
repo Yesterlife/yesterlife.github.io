@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title:  "那些洒下热泪的（一） | 出师表 "
 date:   2021-06-01 15:00:00
 categories: cn

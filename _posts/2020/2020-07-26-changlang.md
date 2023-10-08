@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title:  "走在自己的长廊里"
 date:   2020-07-26 23:00:00
 categories: cn

@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title:  "送给你（九）"
 date:   2021-02-05 09:31:00
 categories: cn
