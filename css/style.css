@@ -149,11 +149,3 @@ header small {
     margin-left: 2%;
   }
 }
-
-.markdown-content a {
-  transition: color 0.3s;
-}
-
-.markdown-content a:hover {
-  color: #ed627e;
-}
