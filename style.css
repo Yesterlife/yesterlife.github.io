@@ -3,7 +3,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-color: #f5f5dc;
+  background-color: #ffffff;
   min-height: 100vh;
   margin: 0;
   display: flex;
@@ -46,7 +46,7 @@ header h1 {
 }
 
 header h1:hover {
-  color: #ff69b4;
+  color: #ed627e;
 }
 
 .bio {
@@ -129,7 +129,7 @@ header small {
   right: -0.4em;
   width: 6px;
   height: 6px;
-  background: #ff69b4;
+  background: #ed627e;
   border-radius: 50%;
   opacity: 0;
   transform: translate(100%, -100%) rotate(0deg);
