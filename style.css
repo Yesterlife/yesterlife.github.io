@@ -93,6 +93,26 @@ header small {
 }
 
 .social-links a {
+  position: relative;
+  padding-right: 8px;
+}
+
+.social-links a::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 4px;
+  height: 4px;
+  background: #ff69b4;
+  border-radius: 50%;
+  transform: translate(100%, -100%);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.social-links a:hover::after {
+  transform: translate(-100%, 100%) rotate(-180deg);
+}
   color: #2c3e50;
   text-decoration: none;
   display: inline-flex;
