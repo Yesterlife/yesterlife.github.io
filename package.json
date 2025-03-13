@@ -1,7 +1,7 @@
 {
-  "name": "varzy.github.io",
+  "name": "yesterlife.github.io",
   "version": "1.0.0",
-  "repository": "git@github.com:varzy/varzy.github.io.git",
+  "repository": "git@github.com:yesterlife/yesterlife.github.io.git",
   "author": "zy <varzy@live.com>",
   "license": "MIT",
   "browserslist": "> 0.5%, last 2 versions, not dead",
