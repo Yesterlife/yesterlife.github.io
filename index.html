@@ -9,17 +9,23 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
 </head>
 <body>
-  <main class="container" style="opacity:0">
-    <header>
-      <h1 id="title"></h1>
-      <small id="position"></small>
-    </header>
+  <main class="container">
+    <nav class="nav-sidebar" id="nav"></nav>
 
-    <section class="bio" id="bio"></section>
+    <div class="content-area">
+      <header>
+        <h1 id="title"></h1>
+        <small id="position"></small>
+      </header>
 
-    <nav class="social-links" id="socials">
-      <ul></ul>
-    </nav>
+      <div id="content">
+        <!-- 内容卡片将通过JS动态插入 -->
+      </div>
+
+      <nav class="social-links" id="socials">
+        <ul></ul>
+      </nav>
+    </div>
   </main>
 
   <script>
@@ -27,6 +33,25 @@
       .then(res => res.text())
       .then(yaml => {
         const data = jsyaml.load(yaml);
+        // 加载导航菜单
+        data.nav.forEach(item => {
+          const link = document.createElement('a');
+          link.href = item.link;
+          link.textContent = item.text;
+          document.getElementById('nav').appendChild(link);
+        });
+
+        // 加载内容卡片
+        data.sections.forEach(section => {
+          const card = document.createElement('div');
+          card.className = 'content-card';
+          card.innerHTML = `
+            <h3>${section.title}</h3>
+            <p>${section.content}</p>
+          `;
+          document.getElementById('content').appendChild(card);
+        });
+
         document.getElementById('title').textContent = data.title;
         document.getElementById('position').textContent = data.position;
 
