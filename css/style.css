@@ -140,3 +140,24 @@ header small {
   opacity: 1;
   transform: translate(-50%, 50%) rotate(360deg);
 }
+
+
+/* 网站LOGO样式 */
+.site-logo {
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 120px;
+}
+
+.logo-img {
+  width: 100%;
+  height: auto;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1));
+}
+
+@media (max-width: 768px) {
+  .site-logo {
+    max-width: 80px;
+    margin: 1.5rem auto;
+  }
+}
