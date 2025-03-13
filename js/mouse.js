@@ -100,8 +100,8 @@ class Cursor {
         }
     });
 
-        document.onmouseover  = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.add("hover");
-        document.onmouseout   = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.remove("hover");
+        document.onmouseover  = e => (this.pt.includes(e.target.outerHTML) || e.target.tagName === 'A') && this.cursor.classList.add("hover");
+        document.onmouseout   = e => (this.pt.includes(e.target.outerHTML) || e.target.tagName === 'A') && this.cursor.classList.remove("hover");
         document.onmousemove  = e => {(this.pos.curr == null) && this.move(e.clientX - 8, e.clientY - 8); this.pos.curr = {x: e.clientX - 8, y: e.clientY - 8}; this.cursor.classList.remove("hidden");};
         document.onmouseenter = e => this.cursor.classList.remove("hidden");
         document.onmouseleave = e => this.cursor.classList.add("hidden");
