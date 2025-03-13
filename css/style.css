@@ -106,7 +106,7 @@ header small {
 }
 
 .social-links a:hover {
-  color: #3498db;
+  color: #108adc;
 }
 
 @media (max-width: 480px) {
@@ -124,7 +124,7 @@ header small {
 }
 
 .bio a:hover {
-  color: #ed627e;
+  color: #108adc;
 }
 
 .bio a::after {
