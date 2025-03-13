@@ -6,74 +6,38 @@
   <title>个人博客 | Yesterlife</title>
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
 </head>
 <body>
   <main class="container">
-    <nav class="nav-sidebar" id="nav"></nav>
+    <header>
+      <h1>Yesterlife</h1>
+      <small>全栈开发工程师</small>
+    </header>
 
-    <div class="content-area">
-      <header>
-        <h1 id="title"></h1>
-        <small id="position"></small>
-      </header>
+    <section class="bio">
+      <p>拥有5年前端开发经验，专注于现代Web技术栈。</p>
+      <p>热爱开源社区，持续关注用户体验与交互设计。</p>
+    </section>
 
-      <div id="content">
-        <!-- 内容卡片将通过JS动态插入 -->
-      </div>
-
-      <nav class="social-links" id="socials">
-        <ul></ul>
-      </nav>
-    </div>
+    <nav class="social-links">
+      <ul>
+        <li>
+          <a href="https://github.com/yesterlife" target="_blank">
+            <i class="fab fa-github"></i> GitHub
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/yesterlife" target="_blank">
+            <i class="fab fa-twitter"></i> Twitter
+          </a>
+        </li>
+        <li>
+          <a href="mailto:yesterlife@example.com">
+            <i class="fas fa-envelope"></i> Email
+          </a>
+        </li>
+      </ul>
+    </nav>
   </main>
-
-  <script>
-    fetch('data.yml')
-      .then(res => res.text())
-      .then(yaml => {
-        const data = jsyaml.load(yaml);
-        // 加载导航菜单
-        data.nav.forEach(item => {
-          const link = document.createElement('a');
-          link.href = item.link;
-          link.textContent = item.text;
-          document.getElementById('nav').appendChild(link);
-        });
-
-        // 加载内容卡片
-        data.sections.forEach(section => {
-          const card = document.createElement('div');
-          card.className = 'content-card';
-          card.innerHTML = `
-            <h3>${section.title}</h3>
-            <p>${section.content}</p>
-          `;
-          document.getElementById('content').appendChild(card);
-        });
-
-        document.getElementById('title').textContent = data.title;
-        document.getElementById('position').textContent = data.position;
-
-        data.bio.forEach(text => {
-          const p = document.createElement('p');
-          p.innerHTML = text.link ? `<a href="${text.link}" target="_blank">${text.text}</a>` : text.text;
-          document.getElementById('bio').appendChild(p);
-        });
-
-        data.socials.forEach(item => {
-          const li = document.createElement('li');
-          li.innerHTML = `
-            <a href="${item.url}" target="_blank">
-              <i class="${item.icon}"></i> ${item.name}
-            </a>
-          `;
-          document.querySelector('#socials ul').appendChild(li);
-        });
-
-        document.querySelector('.container').style.opacity = 1;
-      })
-      .catch(err => console.error('数据加载失败:', err));
-  </script>
 </body>
 </html>

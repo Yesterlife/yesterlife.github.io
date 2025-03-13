@@ -6,53 +6,56 @@ body {
   background-color: #f5f5dc;
   min-height: 100vh;
   margin: 0;
-  display: grid;
-  grid-template-columns: 240px 1fr;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 }
 
 .container {
   max-width: 800px;
   width: 90%;
-  padding: 3rem;
-  animation: fadeUp 0.8s cubic-bezier(0.23, 1, 0.32, 1) forwards;
+  padding: 2rem;
+  text-align: left;
 }
 
-.nav-sidebar {
+body::before {
+  content: '';
   position: fixed;
-  width: 240px;
-  height: 100vh;
-  padding: 2rem;
-  background: rgba(255,255,255,0.95);
-  box-shadow: 2px 0 12px rgba(0,0,0,0.05);
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(255,255,255,0.9);
+  z-index: -1;
 }
 
-.content-card {
-  background: white;
-  padding: 2rem;
-  margin-bottom: 2rem;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-  cursor: pointer;
+header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
 }
 
-.content-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+.bio {
+  margin: 2rem 0;
+  line-height: 1.8;
 }
 
-.nav-sidebar a {
-  padding: 12px 16px;
-  border-radius: 6px;
-  margin: 8px 0;
-  transition: background 0.2s ease;
+.social-links ul {
+  display: flex;
+  gap: 1.5rem;
 }
 
-.nav-sidebar a:hover {
-  background: rgba(0,0,0,0.05);
+.social-links img {
+  width: 24px;
+  height: 24px;
+  transition: transform 0.2s;
 }
-  font-family: 'Source Han Serif CN', 'Noto Serif SC', serif;
+
+.social-links a:hover img {
+  transform: scale(1.2);
+}
+  font-family: 'Source Han Serif CN', serif;
   font-weight: 900;
 }
 
@@ -84,14 +87,6 @@ header small {
 .social-links a {
   color: #2c3e50;
   text-decoration: none;
-  border-bottom: 1px solid rgba(44,62,80,0.3);
-  transition: all 0.3s ease;
-}
-
-.bio a:hover {
-  color: #3498db;
-  border-bottom-color: rgba(52,152,219,0.3);
-}
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
@@ -105,32 +100,4 @@ header small {
   .container {
     padding: 1rem;
   }
-}
-
-@media (max-width: 768px) {
-  body {
-    grid-template-columns: 1fr;
-  }
-
-  .nav-sidebar {
-    position: relative;
-    width: 100%;
-    height: auto;
-    padding: 1rem;
-    box-shadow: none;
-  }
-
-  .content-card {
-    margin: 1rem 0;
-    padding: 1.5rem;
-  }
-}
-
-@keyframes fadeUp {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
-.container {
-  animation: fadeUp 0.8s cubic-bezier(0.23, 1, 0.32, 1) forwards;
 }
