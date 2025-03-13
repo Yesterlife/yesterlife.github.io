@@ -142,10 +142,10 @@ header small {
 }
 
 .logo-container {
-  margin-left: 78%;
+  margin-left: 80%;
 }
 @media (max-width: 480px) {
   .logo-container {
-    margin-left: 68%;
+    margin-left: 2%;
   }
 }
