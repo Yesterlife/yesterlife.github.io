@@ -140,3 +140,12 @@ header small {
   opacity: 1;
   transform: translate(-50%, 50%) rotate(360deg);
 }
+
+.logo-container {
+  margin-left: 3%;
+}
+@media (max-width: 480px) {
+  .logo-container {
+    margin-left: 2%;
+  }
+}
