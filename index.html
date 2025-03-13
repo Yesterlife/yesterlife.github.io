@@ -32,7 +32,7 @@
 
         data.bio.forEach(text => {
           const p = document.createElement('p');
-          p.textContent = text;
+          p.innerHTML = text.link ? `<a href="${text.link}" target="_blank">${text.text}</a>` : text.text;
           document.getElementById('bio').appendChild(p);
         });
 
