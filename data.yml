@@ -1,0 +1,15 @@
+title: Yesterlife
+position: 全栈开发工程师
+bio:
+  - 拥有5年前端开发经验，专注于现代Web技术栈
+  - 热爱开源社区，持续关注用户体验与交互设计
+socials:
+  - name: GitHub
+    url: https://github.com/yesterlife
+    icon: fab fa-github
+  - name: Twitter
+    url: https://twitter.com/yesterlife
+    icon: fab fa-twitter
+  - name: Email
+    url: mailto:yesterlife@example.com
+    icon: fas fa-envelope
