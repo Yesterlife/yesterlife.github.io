@@ -1,4 +1,8 @@
 body {
+  background-image: url('https://ksc-bj.ag.kdocs.cn/api/thumbnail/3_acad46ca9ed14bf297e27067d47d1974/compatible?KSSAccessKeyId=AKLTU7N1__ODQ4KKf-YhOK9iwg&Expires=1741847150&Signature=lWfA1qoDaWftd3se5SJSmDiPlUw%3D');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   background-color: #f5f5dc;
   min-height: 100vh;
   margin: 0;
@@ -18,16 +22,24 @@ body {
 header h1 {
   font-size: 2.5rem;
   margin-bottom: 0.5rem;
+  text-align: left;
+  font-family: 'Source Han Serif CN', serif;
+  font-weight: 900;
 }
 
 header small {
   color: #666;
   font-size: 1.1rem;
+  text-align: left;
+  font-family: 'Source Han Serif CN', serif;
 }
 
 .bio {
   margin: 2rem 0;
   line-height: 1.6;
+  text-align: justify;
+  font-family: 'Source Han Serif CN', serif;
+  font-weight: 600;
 }
 
 .social-links ul {
