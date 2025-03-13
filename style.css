@@ -13,16 +13,48 @@ body {
 }
 
 .container {
-  max-width: 600px;
+  max-width: 800px;
   width: 90%;
   padding: 2rem;
-  text-align: center;
+  text-align: left;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(255,255,255,0.9);
+  z-index: -1;
 }
 
 header h1 {
   font-size: 2.5rem;
   margin-bottom: 0.5rem;
-  text-align: left;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+}
+
+.bio {
+  margin: 2rem 0;
+  line-height: 1.8;
+}
+
+.social-links ul {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.social-links img {
+  width: 24px;
+  height: 24px;
+  transition: transform 0.2s;
+}
+
+.social-links a:hover img {
+  transform: scale(1.2);
+}
   font-family: 'Source Han Serif CN', serif;
   font-weight: 900;
 }
