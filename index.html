@@ -15,8 +15,17 @@
     </header>
 
     <section class="bio">
-      <p>拥有5年前端开发经验，专注于现代Web技术栈。</p>
-      <p>热爱开源社区，持续关注用户体验与交互设计。</p>
+      <div class="bio" id="markdown-content"></div>
+
+      <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+      <script>
+        fetch('intro.md')
+          .then(response => response.text())
+          .then(text => {
+            document.getElementById('markdown-content').innerHTML = marked.parse(text);
+          })
+          .catch(err => console.error('加载MD文件失败:', err));
+      </script>
     </section>
 
     <nav class="social-links">
